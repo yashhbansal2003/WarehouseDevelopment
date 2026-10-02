@@ -102,5 +102,6 @@ Both engines feed **one CRM**, one funnel and one weekly review. That is how a c
 | 12 | [Marketing budget](12-budget.md) | 12 |
 | 13 | [Your marketing learning path](13-learning-path.md) | "learn while executing" |
 | 14 | [**Start execution: first 30 days**](14-start-execution.md) | Day-by-day start plan |
+| 15 | [**Lead engine: real outside leads**](15-lead-generation-engine.md) | Sources, platforms, lead scoring, weekly machine |
 
 > **Legal note:** the agreement terms in files 08 and 09 are commercial term sheets. Have a Bengaluru real-estate lawyer turn them into contracts. Budget ~₹1–1.5 L for both templates plus a Kannada translation.
